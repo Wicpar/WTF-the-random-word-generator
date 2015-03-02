@@ -1,4 +1,6 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+// This program is free software; you can redistribute it and/or modify
+// it under the terms of the GNU General Public License version 3
+// as published by the Free Software Foundation.
 
 #include "testProject.h"
 #include "WTF.h"
